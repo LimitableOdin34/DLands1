@@ -4,3 +4,5 @@ if (!fire)
 {
 	x = obj_Paddle.x;
 };
+
+gravity = .001;
