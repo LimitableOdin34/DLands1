@@ -5,16 +5,6 @@
     "name": "obj_Brick2",
     "eventList": [
         {
-            "id": "9ce9be26-2bbe-41a1-90b2-9274cda91652",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "cc476f3a-1696-4561-81e9-7ab913398d1e"
-        },
-        {
             "id": "1037271a-ce32-40f5-8c78-05ef73d20c51",
             "modelName": "GMEvent",
             "mvc": "1.0",

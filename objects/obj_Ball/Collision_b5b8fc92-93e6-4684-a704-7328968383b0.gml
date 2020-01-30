@@ -16,3 +16,4 @@ if (speed < 20) speed += .5;
 //
 instance_destroy(other)/// @description Insert description here
 // You can write your code in this editor
+ 
