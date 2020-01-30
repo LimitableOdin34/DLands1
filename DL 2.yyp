@@ -399,6 +399,14 @@
             }
         },
         {
+            "Key": "c39bf006-7221-4aa6-8135-7669778e0c34",
+            "Value": {
+                "id": "5cc02622-1f7b-4d82-86b4-bc577e77a706",
+                "resourcePath": "sprites\\spr_Icicle\\spr_Icicle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c6d7d619-3746-49e5-b03e-3ca85c47bc2c",
             "Value": {
                 "id": "19a5dd74-2d2f-4e4a-b6ac-c8e71d6d0356",
