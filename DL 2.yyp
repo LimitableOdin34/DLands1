@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "1e242e67-add5-423b-b7fa-ca0fa60908a4",
+            "Value": {
+                "id": "628c40c8-17fe-4cff-92fe-9722640bd81c",
+                "resourcePath": "sprites\\spr_brick_bossmetal\\spr_brick_bossmetal.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1f9d96f2-c6bf-465c-84fd-1edaf99de6f6",
             "Value": {
                 "id": "c895df94-04a9-4f23-844a-5126ca0d012a",
@@ -412,6 +420,14 @@
                 "id": "80ec07ad-9f23-452b-986a-80393111ed02",
                 "resourcePath": "views\\b43d6e4e-c0f0-4682-9520-bd36c55b4a74.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b51be573-8ef8-47af-acc5-2f07c43547dc",
+            "Value": {
+                "id": "d9ffb552-dc15-40da-b061-7a52c296a6c7",
+                "resourcePath": "sprites\\spr_boss_safe\\spr_boss_safe.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
