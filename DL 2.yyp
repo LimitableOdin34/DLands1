@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "046003ff-77e3-41ea-9e50-1339174ea38b",
+            "Value": {
+                "id": "2a233b81-ef13-4be8-8ee2-465478f7b6ab",
+                "resourcePath": "sprites\\spr_seaweed_wall\\spr_seaweed_wall.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "068c562d-2d6e-4105-8c22-baf67a43631a",
             "Value": {
                 "id": "46697cd9-a03b-4a27-95df-acb5372aaa5d",
