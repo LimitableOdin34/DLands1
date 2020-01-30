@@ -607,6 +607,14 @@
             }
         },
         {
+            "Key": "d6b3dd1f-81f2-4340-9dea-db5aa38385c6",
+            "Value": {
+                "id": "b25e2fc8-bf40-4a9d-b510-19f2a1ca143a",
+                "resourcePath": "objects\\obj_level4Music\\obj_level4Music.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "df2759c7-9da4-498f-bec3-1979e9051a21",
             "Value": {
                 "id": "e892f175-64e7-4522-bb42-f71c3af5785f",
@@ -620,6 +628,14 @@
                 "id": "af8e8a15-0fa1-4754-8018-b307563a0490",
                 "resourcePath": "views\\e1ad8eac-a9ce-40ca-ac40-68ebf89613e4.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e546b207-fb73-4f51-9312-17023c3b76a2",
+            "Value": {
+                "id": "dd62cc6b-b9f3-4d07-b94e-97f9feb626db",
+                "resourcePath": "objects\\obj_level5Music\\obj_level5Music.yy",
+                "resourceType": "GMObject"
             }
         },
         {
