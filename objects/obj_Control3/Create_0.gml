@@ -6,4 +6,4 @@ global.player_lives = 3;
 global.high_score = 0;
 gameover = false;
 
-randomize();
+//randomize();
