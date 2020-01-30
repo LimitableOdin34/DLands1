@@ -1,8 +1,8 @@
-/// @description Insert description here
+  /// @description Insert description here
 // You can write your code in this editor
 if (!fire)
 {
 	x = obj_Paddle.x;
 };
 
-gravity = .001;
+gravity = .005;
