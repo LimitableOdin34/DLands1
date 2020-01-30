@@ -295,6 +295,14 @@
             }
         },
         {
+            "Key": "78bc7f05-d7db-4c2f-8be5-48e757092bb8",
+            "Value": {
+                "id": "4f51a0ac-e298-451d-a329-10132b792080",
+                "resourcePath": "sprites\\spr_brick2\\spr_brick2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7a2d7368-e6fb-4ddd-8ae4-986663d43a8f",
             "Value": {
                 "id": "a68be32c-1082-4fd4-9338-edec9ca1d313",
