@@ -1,3 +1,3 @@
-/// @description Insert description here
+ /// @description Insert description here
 // You can write your code in this editor
-audio_pause_sound(Helios);       
+audio_pause_sound(Hysterical);       
