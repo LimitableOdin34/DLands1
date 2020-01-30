@@ -511,6 +511,14 @@
             }
         },
         {
+            "Key": "e7ec9cc5-68b2-4270-994a-4e1658c27957",
+            "Value": {
+                "id": "a07cdfa5-a8de-4ef8-90f0-311f99b7c281",
+                "resourcePath": "sprites\\spr_bg_water\\spr_bg_water.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ea4a7d6e-5d01-430a-8d95-5e6d0abe918e",
             "Value": {
                 "id": "9a5bad29-fbf1-4ab9-8c0e-e06add2da22f",
