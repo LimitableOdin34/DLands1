@@ -1,6 +1,6 @@
 
 {
-    "name": "room6",
+    "name": "rm_4",
     "id": "1f83ce7e-c586-4820-85f6-f5905c6da6ee",
     "creationCodeFile": "",
     "inheritCode": false,
