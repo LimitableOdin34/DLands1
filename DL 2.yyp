@@ -407,6 +407,14 @@
             }
         },
         {
+            "Key": "b5e7dd2d-d743-4398-8f11-0ad7de51340a",
+            "Value": {
+                "id": "4e8f3de7-228c-46bd-b055-9b4eb3a13323",
+                "resourcePath": "sprites\\spr_brick_coral\\spr_brick_coral.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "bcc56db9-ae84-4f35-899a-6b741e1f52b7",
             "Value": {
                 "id": "8d9e2878-9969-4d5b-93a8-bfb3298e4942",
