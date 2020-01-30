@@ -12,10 +12,15 @@ if global.player_lives = 0
 
 if (instance_number(obj_Brick) = 0)
 {
- room_goto(room2);
+ room_goto_next();
 }
 
 if (instance_number(obj_Brick1) = 0)
 {
- room_goto(room2);
+ room_goto_next();
+}
+
+if (instance_number(obj_Brick2) = 0)
+{
+ room_goto_next();
 }
