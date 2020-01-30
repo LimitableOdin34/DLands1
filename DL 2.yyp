@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "103116b9-9cf0-4da4-8e29-fdf9ab540734",
+            "Value": {
+                "id": "3bfd90f2-d7ba-4cba-bb3e-731bbf92807a",
+                "resourcePath": "sounds\\Conquerors_of_Space\\Conquerors_of_Space.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "12750455-539e-42a5-812c-8fb2c940a643",
             "Value": {
                 "id": "4dc53682-6b6c-4dce-9492-716339efc785",
@@ -172,6 +180,30 @@
                 "id": "a2886d0a-2345-49d4-bbab-bfab5a279069",
                 "resourcePath": "sprites\\spr_Power\\spr_Power.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3439be37-83b9-4658-a7af-8d885757b947",
+            "Value": {
+                "id": "82a6ecd5-3395-482f-ae70-fff0ffa8cdcc",
+                "resourcePath": "sounds\\Helios\\Helios.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "36a7cc2f-d831-4cf6-9e87-4b3822a0cea9",
+            "Value": {
+                "id": "285b42a0-6d10-4fab-80ed-f968b670d6f2",
+                "resourcePath": "objects\\object14\\object14.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "3b3e3538-253d-4314-914e-89e707bf1d92",
+            "Value": {
+                "id": "f47c9217-6269-473c-9ff9-4f8d85f42500",
+                "resourcePath": "rooms\\room2\\room2.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -306,7 +338,7 @@
             "Key": "7260fc84-0fc9-46b4-b072-310b5c497730",
             "Value": {
                 "id": "e1e2dc12-a44d-4985-83c8-03b8666a38aa",
-                "resourcePath": "objects\\obj_level1Music\\obj_level1Music.yy",
+                "resourcePath": "objects\\obj_level2Music\\obj_level2Music.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -564,6 +596,14 @@
                 "id": "3a304c78-7f38-4785-a898-2e5269d663b4",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f779a0d3-d41e-458a-bb38-8e053fa0f221",
+            "Value": {
+                "id": "8d629b94-1ad3-44cc-be8d-d01bffdcb96e",
+                "resourcePath": "objects\\obj_Brick1\\obj_Brick1.yy",
+                "resourceType": "GMObject"
             }
         },
         {

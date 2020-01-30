@@ -12,5 +12,5 @@ if global.player_lives = 0
 
 if (instance_number(obj_Brick) = 0)
 {
- room_goto(0);
+ room_goto_next();
 }
