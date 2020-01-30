@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "1f83ce7e-c586-4820-85f6-f5905c6da6ee",
+            "Value": {
+                "id": "8678a241-2fda-4f1f-80f0-deba696fd6ce",
+                "resourcePath": "rooms\\room6\\room6.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "1f9d96f2-c6bf-465c-84fd-1edaf99de6f6",
             "Value": {
                 "id": "c895df94-04a9-4f23-844a-5126ca0d012a",
@@ -175,6 +183,14 @@
             }
         },
         {
+            "Key": "2880f989-c537-45a7-a615-6834fdd48ac3",
+            "Value": {
+                "id": "1185a905-098f-4d2d-a23c-40ec63717ffa",
+                "resourcePath": "objects\\object18\\object18.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3399094f-9b11-45f0-bab7-93d48c9d18b7",
             "Value": {
                 "id": "a2886d0a-2345-49d4-bbab-bfab5a279069",
@@ -210,7 +226,7 @@
             "Key": "3b3e3538-253d-4314-914e-89e707bf1d92",
             "Value": {
                 "id": "f47c9217-6269-473c-9ff9-4f8d85f42500",
-                "resourcePath": "rooms\\room2\\room2.yy",
+                "resourcePath": "rooms\\rm_2\\rm_2.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -367,6 +383,14 @@
             }
         },
         {
+            "Key": "7b1af53a-8349-421b-9698-6cad2c7e11bf",
+            "Value": {
+                "id": "ca5056e6-9b50-43e5-bdf2-612a8d528839",
+                "resourcePath": "rooms\\room7\\room7.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "7bf99556-6dbc-4e59-aa10-2e406cdf86e5",
             "Value": {
                 "id": "650eea09-fc66-4661-b018-af05c5de0b50",
@@ -386,7 +410,7 @@
             "Key": "8b388a80-a1a1-49e1-bb40-75fd917b5c7f",
             "Value": {
                 "id": "50d6593d-6028-4554-a4a5-3d20d4d5fc55",
-                "resourcePath": "rooms\\room4\\room4.yy",
+                "resourcePath": "rooms\\rm_1\\rm_1.yy",
                 "resourceType": "GMRoom"
             }
         },
