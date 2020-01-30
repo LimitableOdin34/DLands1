@@ -247,6 +247,14 @@
             }
         },
         {
+            "Key": "5e123505-70e2-4f0e-a22c-d58cffd8ef47",
+            "Value": {
+                "id": "8d0c938d-7a85-401c-b764-cd07025ee366",
+                "resourcePath": "sprites\\spr_Vine\\spr_Vine.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "616c7d2e-15b4-4259-9ad2-9a01dff70127",
             "Value": {
                 "id": "2c04cd95-eebd-463a-90be-d85eb1dbc68a",
