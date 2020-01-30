@@ -242,7 +242,7 @@
             "Key": "3d4c0391-1ba9-40f8-b2fd-55fe38710c23",
             "Value": {
                 "id": "b7fc0b3e-a9fa-4197-b328-7fd7df36c890",
-                "resourcePath": "objects\\obj_Control1\\obj_Control1.yy",
+                "resourcePath": "objects\\obj_Control2\\obj_Control2.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -522,7 +522,7 @@
             "Key": "b5de0f2a-c015-404a-ac1b-7e6695f5f2c6",
             "Value": {
                 "id": "2e814e69-78bd-4348-bdad-4c15c48adcfc",
-                "resourcePath": "objects\\obj_Control11\\obj_Control11.yy",
+                "resourcePath": "objects\\obj_Control3\\obj_Control3.yy",
                 "resourceType": "GMObject"
             }
         },
