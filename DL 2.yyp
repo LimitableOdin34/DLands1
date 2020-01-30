@@ -103,14 +103,6 @@
             }
         },
         {
-            "Key": "1f2c88b0-14b4-498d-a584-2a2387e57b21",
-            "Value": {
-                "id": "51dba22e-3ff0-490b-8e78-c77cbe65d6d0",
-                "resourcePath": "rooms\\room2\\room2.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "1f9d96f2-c6bf-465c-84fd-1edaf99de6f6",
             "Value": {
                 "id": "c895df94-04a9-4f23-844a-5126ca0d012a",
@@ -316,6 +308,14 @@
                 "id": "4cebdf7e-e5f9-4d59-a1fb-2eb1f031bad8",
                 "resourcePath": "objects\\obj_Powers1\\obj_Powers1.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8b388a80-a1a1-49e1-bb40-75fd917b5c7f",
+            "Value": {
+                "id": "50d6593d-6028-4554-a4a5-3d20d4d5fc55",
+                "resourcePath": "rooms\\room4\\room4.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
